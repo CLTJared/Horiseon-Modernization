@@ -2,45 +2,45 @@
 
 ## Description
 
-Project to modernize Horiseon website code to modern standards
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+Project to modernize Horiseon website code to modern semantic elements and css standards.
 
 ## Installation
 
-N/A
+View GitHub Repository at: https://github.com/CLTJared/
+View GitHub Demo at: https://cltjared.github.io/Horiseon-Modernization/
 
 ## Usage
+See demo photo below
 
-N/A
+![Modernized demo of site after changes](./assets/Horiseon-Modernization-Demo.png)
 
 ## Credits
 
-N/A
+No additional collaborators worked on this project.
 
 ## License
 
-N/A
+This is free and unencumbered software released into the public domain.
 
-## Badges
+Anyone is free to copy, modify, publish, use, compile, sell, or
+distribute this software, either in source code form or as a compiled
+binary, for any purpose, commercial or non-commercial, and by any
+means.
 
-N/A
+In jurisdictions that recognize copyright laws, the author or authors
+of this software dedicate any and all copyright interest in the
+software to the public domain. We make this dedication for the benefit
+of the public at large and to the detriment of our heirs and
+successors. We intend this dedication to be an overt act of
+relinquishment in perpetuity of all present and future rights to this
+software under copyright law.
 
-## Features
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
 
-N/A
-
-## How to Contribute
-
-N/A
-
-## Tests
-
-N/A
+For more information, please refer to <https://unlicense.org>
