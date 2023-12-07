@@ -101,7 +101,7 @@ h4 { /* Footer section heading */
     color: #fff;
 }
 
-#benefits p {
+#benefits section {
     margin-bottom: 32px;
 }
 
@@ -112,7 +112,7 @@ h4 { /* Footer section heading */
 }
 
 /* Classes */
-.block-row {
+#content section {
     margin-bottom: 20px;
     margin-right: 20px;
     padding: 50px;
