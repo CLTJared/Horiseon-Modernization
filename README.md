@@ -6,8 +6,9 @@ Project to modernize Horiseon website code to modern semantic elements and css s
 
 ## Installation
 
-View GitHub Repository at: https://github.com/CLTJared/
-git clone git@github.com:CLTJared/Horiseon-Modernization.git
+View GitHub Repository at: https://github.com/CLTJared/Horiseon-Modernization
+
+`` git clone git@github.com:CLTJared/Horiseon-Modernization.git ``
 
 ## Usage
 View GitHub Demo at: https://cltjared.github.io/Horiseon-Modernization/
