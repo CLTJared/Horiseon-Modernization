@@ -6,7 +6,7 @@
 
 body {
     background-color: #d9dcd6;
-    
+
     /* Set default font information for page elements */
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 16px;
@@ -87,6 +87,17 @@ h4 { /* Footer section heading */
     background-position: center;
 }
 
+#content section {
+    margin-bottom: 20px;
+    margin-right: 20px;
+    padding: 50px;
+
+    min-height: 300px;
+    min-width: 400px;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
 #content img {
     max-height: 200px;
 }
@@ -111,18 +122,8 @@ h4 { /* Footer section heading */
     max-width: 150px;
 }
 
+
 /* Classes */
-#content section {
-    margin-bottom: 20px;
-    margin-right: 20px;
-    padding: 50px;
-
-    min-height: 300px;
-    min-width: 400px;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
 .seo {
     background-color: transparent;
     color: #d9dcd6;
