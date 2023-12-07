@@ -124,6 +124,7 @@ h4 { /* Footer section heading */
 }
 
 .seo {
+    background-color: transparent;
     color: #d9dcd6;
     font-size: inherit;
 }
